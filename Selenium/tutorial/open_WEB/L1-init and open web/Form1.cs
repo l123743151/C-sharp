@@ -25,7 +25,7 @@ namespace L1_init_and_open_web
 
         private void button1_Click(object sender, EventArgs e)
         {
-            open_web("https://www.facebook.com","public");
+            open_web("https://www.facebook.com/DoctorKoWJ/","public");
         }
 
         public void open_web(string url, string mode)
@@ -64,7 +64,7 @@ namespace L1_init_and_open_web
 
         private void button2_Click(object sender, EventArgs e)
         {
-            open_web("https://www.facebook.com", "private");
+            open_web("https://www.facebook.com/DoctorKoWJ/", "private");
         }
     }
 }

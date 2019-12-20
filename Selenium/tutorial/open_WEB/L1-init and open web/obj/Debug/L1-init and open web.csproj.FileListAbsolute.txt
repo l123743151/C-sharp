@@ -1,0 +1,11 @@
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\bin\Debug\L1-init and open web.exe.config
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\bin\Debug\L1-init and open web.exe
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\bin\Debug\L1-init and open web.pdb
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\bin\Debug\WebDriver.dll
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\bin\Debug\WebDriver.xml
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1-init and open web.csprojResolveAssemblyReference.cache
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1_init_and_open_web.Form1.resources
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1_init_and_open_web.Properties.Resources.resources
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1-init and open web.csproj.GenerateResource.Cache
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1-init and open web.exe
+D:\Users\Acer-TMP648\Documents\visual studio 2015\Projects\C# tutorial\Selenium\L1-open web\L1-init and open web\L1-init and open web\obj\Debug\L1-init and open web.pdb
